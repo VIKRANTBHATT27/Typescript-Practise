@@ -22,7 +22,6 @@ hitesh = { username: "hc", id: 330 };
 console.log(typeof hitesh);
 console.log(hitesh);
 
-
 function getDBId(id: number | string) {
      if (typeof id === 'string') {
           id.toLowerCase();
